@@ -53,6 +53,6 @@ ________________________________________
 ________________________________________
 File Structure
 Blinkit-PowerBI-Project/
-├── Dashboard Screenshot.png          # Image preview of your Power BI dashboard
+├── Blinkit.PNG          # Image preview of your Power BI dashboard
 ├── blinkit(Power Bi).pbix      # Main Power BI file
 ├── README.md                         # Documentation file explaining the project
