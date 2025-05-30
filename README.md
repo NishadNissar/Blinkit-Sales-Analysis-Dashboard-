@@ -54,5 +54,5 @@ ________________________________________
 File Structure
 Blinkit-PowerBI-Project/
 ├── Dashboard Screenshot.png          # Image preview of your Power BI dashboard
-├── Blinkit_Sales_Dashboard.pbix      # Main Power BI file
+├── blinkit(Power Bi).pbix      # Main Power BI file
 ├── README.md                         # Documentation file explaining the project
